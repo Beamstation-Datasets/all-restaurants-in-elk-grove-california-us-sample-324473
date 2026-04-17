@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5aaaf05d-0f14-4e9b-9c83-0c1f42111959",
+  "export_job_id": "2ddb5206-dcca-416e-904a-425fd11ba5a2",
   "id_short": 324473,
-  "published_at": "2026-04-11T07:28:16Z",
+  "published_at": "2026-04-17T19:18:43Z",
   "repo_name": "all-restaurants-in-elk-grove-california-us-sample-324473",
   "sample_asset_name": "beamstation_324473_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/324473/beamstation_324473_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 33,
-  "sample_sha256": "b91e53256b7715031874791d3d5bdaac2add09bf8e1b63d93899425f3bf2c216",
-  "sample_size_bytes": 133386,
-  "total_records": 339
+  "sample_sha256": "27ab8a9491f518d0a6e87543183143efcbc6db18b9e4fb6a5f549781a56c84cd",
+  "sample_size_bytes": 123683,
+  "total_records": 338
 }
