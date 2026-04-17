@@ -9,9 +9,9 @@
 | Dataset ID | `324473` |
 | Location | Elk Grove |
 | Category | Restaurants |
-| Full dataset size | 339 records |
-| Free sample size | 33 records (9.73%) |
-| Last export | 2026-04-07T12:38:30.801394+00:00 |
+| Full dataset size | 338 records |
+| Free sample size | 33 records (9.76%) |
+| Last export | 2026-04-14T12:31:02.311096+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-elk-grove-california-us-sample-324473/releases/download/sample-latest/beamstation_324473_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
