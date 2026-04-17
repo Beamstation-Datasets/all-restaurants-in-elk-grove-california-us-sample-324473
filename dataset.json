@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Elk Grove, California with a population of over 176k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Elk Grove, California, US",
-  "export_job_id": "5aaaf05d-0f14-4e9b-9c83-0c1f42111959",
+  "export_job_id": "2ddb5206-dcca-416e-904a-425fd11ba5a2",
   "github_org": "Beamstation-Datasets",
   "id_short": 324473,
   "location_name": "Elk Grove",
   "location_type": "city",
   "repo_name": "all-restaurants-in-elk-grove-california-us-sample-324473",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/324473/beamstation_324473_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.73,
+  "sample_pct": 9.76,
   "sample_records": 33,
-  "sample_sha256": "b91e53256b7715031874791d3d5bdaac2add09bf8e1b63d93899425f3bf2c216",
-  "sample_size_bytes": 133386,
-  "total_records": 339,
-  "updated_at": "2026-04-07T12:38:30.801394+00:00"
+  "sample_sha256": "27ab8a9491f518d0a6e87543183143efcbc6db18b9e4fb6a5f549781a56c84cd",
+  "sample_size_bytes": 123683,
+  "total_records": 338,
+  "updated_at": "2026-04-14T12:31:02.311096+00:00"
 }
