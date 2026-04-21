@@ -1,6 +1,6 @@
 # All Restaurants in Elk Grove, California, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `324473` |
 | Location | Elk Grove |
 | Category | Restaurants |
-| Full dataset size | 338 records |
-| Free sample size | 33 records (9.76%) |
-| Last export | 2026-04-14T12:31:02.311096+00:00 |
+| Full dataset size | 307 records |
+| Free sample size | 30 records (9.77%) |
+| Last export | 2026-04-21T13:18:26.400514+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-elk-grove-california-us-sample-324473/releases/download/sample-latest/beamstation_324473_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
